@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Danmu</string>
+
+    <string name="select_vide">Select Video</string>
+    <string name="Danmu">Danmu</string>
+    <string name="Settings">Settings</string>
+</resources>
